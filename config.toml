@@ -1,5 +1,5 @@
 baseURL = "/"
-title = "Goldydocs"
+title = "Imron Rosyadi"
 
 # Language settings
 contentDir = "content/en"
@@ -67,26 +67,18 @@ id = "UA-00000000-0"
 
 [languages]
 [languages.en]
-title = "Goldydocs"
-description = "A Docsy example site"
+title = "Imron Rosyadi"
+description = "My notetaking site"
 languageName ="English"
 # Weight used for sorting.
 weight = 1
-[languages.no]
-title = "Goldydocs"
-description = "Docsy er operativsystem for skyen"
-languageName ="Norsk"
-contentDir = "content/no"
+[languages.id]
+title = "Imron Rosyadi"
+description = "Catatanku"
+languageName ="Indonesia"
+contentDir = "content/id"
 time_format_default = "02.01.2006"
 time_format_blog = "02.01.2006"
-
-[languages.fa]
-title = "اسناد گلدی"
-description = "یک نمونه برای پوسته داکسی"
-languageName ="فارسی"
-contentDir = "content/fa"
-time_format_default = "2006.01.02"
-time_format_blog = "2006.01.02"
 
 [markup]
   [markup.goldmark]
@@ -105,7 +97,7 @@ time_format_blog = "2006.01.02"
 section = ["HTML", "print", "RSS"]
 
 [params]
-copyright = "The Docsy Authors"
+copyright = "Imron Rosyadi"
 privacy_policy = "https://policies.google.com/privacy"
 
 # First one is picked as the Twitter card image if not set on page.
@@ -142,16 +134,16 @@ github_project_repo = "https://github.com/google/docsy"
 github_branch= "master"
 
 # Google Custom Search Engine ID. Remove or comment out to disable search.
-gcs_engine_id = "d72aa9b2712488cc3"
+# gcs_engine_id = "d72aa9b2712488cc3"
 
 # Enable Algolia DocSearch
 algolia_docsearch = false
 
 # Enable Lunr.js offline search
-offlineSearch = false
+offlineSearch = true
 
 # Enable syntax highlighting and copy buttons on code blocks with Prism
-prism_syntax_highlighting = false
+prism_syntax_highlighting = true
 
 # User interface configuration
 [params.ui]
@@ -217,6 +209,48 @@ enable = false
   url = "https://example.org/mail"
   icon = "fa fa-envelope"
   desc = "Discuss development issues around the project"
+  
+[params.mermaid]
+enable = true
+theme = "default"
+
+[params.plantuml]
+enable = true
+theme = "default"
+svg_image_url = "https://www.plantuml.com/plantuml/svg/"
+svg = false
+
+[params.katex]
+enable = true
+html_dom_element = "document.body"
+
+[params.katex.options]
+throwOnError = true
+errorColor = "#CD5C5C"
+
+# This is a list of delimiters to look for math, processed in the same order as
+[[params.katex.options.delimiters]]
+  left = "$$"
+  right = "$$"
+  display = true
+[[params.katex.options.delimiters]]
+  left = "$"
+  right = "$"
+  display = false
+[[params.katex.options.delimiters]]
+  left = "\\("
+  right = "\\)"
+  display = true
+
+# enable display of chemical equations and physical units via mhchem extension
+[params.katex.mhchem]
+enable = true
+
+[params.print]
+disable_toc = false
+
+[params.markmap]
+enable = true
 
 # hugo module configuration
 
