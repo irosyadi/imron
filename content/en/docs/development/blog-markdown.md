@@ -718,10 +718,6 @@ $$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
 ## 24. Specific HTML Code
 - didn't work in Gitbook
 
-$$a+b=5$$
-
-$a+b=5$
-
 ### 24.1. Drop Down List
 
 ***markdown***

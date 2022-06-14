@@ -10,7 +10,7 @@ draft: false
 
 #  Experimental Markdown
 
-Experimental markdown to check Markdown parser compatibility between VNote+Viki, Gatsby-starter-bee, and Gitbook.  
+Experimental markdown to check Markdown parser compatibility between VNote+Viki, Gatsby-starter-bee, and Gitbook.
 
 ## Internal Link Reference
 ### Type 1
@@ -101,6 +101,19 @@ Here is the comment:
 ☝️ remember  
 ⚡️ flash
 
+## Iframe
+```
+<iframe src="https://wttr.in" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+```
+
+<div>
+<iframe src="https://wttr.in" frameborder="0" width="480" height="299" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+</div>
+
+<div>
+<iframe src="https://eth0.me/" frameborder="0" width="100" height="50"</iframe>
+</div>
+
 ## Image Hosting in Github
 
 ![QR Code Image-small](https://raw.githubusercontent.com/irosyadi/vnote.image/master/1608464780_20201220183102525_18817.png)
@@ -117,55 +130,3 @@ Here is the comment:
 github.io and gitbook.io cannot render svg
 
 ![crocodile](https://snapsvg.io/assets/images/crocodile.svg)
-
-
-The probability of getting \\(k\\) heads when flipping \\(n\\) coins is:
-$$\tag*{(1)} P(E) = {n \choose k} p^k (1-p)^{n-k}$$
-
-Inline equation with one dollar sign: $ E=mc^2 $ (worked in VNote and Gatsby).  
-Inline equation with two dollar sign: 
-$$ E=mc^2 $$  
-(worked in Gatsby, Jekyll and Gitbook).  
-
-### New Paragraph
- 
-- Newline equation with two dollar signs.  
-
-$$ \sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f)) $$
-
-$$a+b=5$$
-
-
-## 23. Latex
-
-### 23.1. Inline Equation
-- Equation with one dollar sign `$` works inline in VNote
-- Equation with two dollar signs `$$` works inline in Jekyll and Gitbook, but not in VNote
-
-***markdown***
-
-```
-Inline equation with one dollar sign: $E=mc^2$ (worked in VNote and Gatsby).  
-Inline equation with two dollar sign: $$E=mc^2$$ (worked in Gatsby, Jekyll and Gitbook).
-```
-
-***display***  
-
-Inline equation with one dollar sign: $E=mc^2$ (worked in VNote and Gatsby).  
-Inline equation with two dollar sign: $$E=mc^2$$ (worked in Gatsby, Jekyll and Gitbook).  
-
-### 23.2. Newline Equation
-
-***markdown***
-
-```
-Newline equation with two dollar signs.
-
-$$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
-```
-
-***display***
-
-Newline equation with two dollar signs.  
-$$\sin(\alpha)^{\theta}=\sum_{i=0}^{n}(x^i + \cos(f))$$
-
