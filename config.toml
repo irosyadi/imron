@@ -143,7 +143,7 @@ algolia_docsearch = false
 offlineSearch = true
 
 # Enable syntax highlighting and copy buttons on code blocks with Prism
-prism_syntax_highlighting = true
+prism_syntax_highlighting = false
 
 # User interface configuration
 [params.ui]
@@ -211,11 +211,11 @@ enable = false
   desc = "Discuss development issues around the project"
   
 [params.mermaid]
-enable = true
+enable = false
 theme = "default"
 
 [params.plantuml]
-enable = true
+enable = false
 theme = "default"
 svg_image_url = "https://www.plantuml.com/plantuml/svg/"
 svg = false
@@ -225,7 +225,7 @@ enable = true
 html_dom_element = "document.body"
 
 [params.katex.options]
-throwOnError = true
+throwOnError = false
 errorColor = "#CD5C5C"
 
 # This is a list of delimiters to look for math, processed in the same order as
@@ -236,21 +236,17 @@ errorColor = "#CD5C5C"
 [[params.katex.options.delimiters]]
   left = "$"
   right = "$"
-  display = false
-[[params.katex.options.delimiters]]
-  left = "\\("
-  right = "\\)"
   display = true
 
 # enable display of chemical equations and physical units via mhchem extension
 [params.katex.mhchem]
-enable = true
+enable = false
 
 [params.print]
 disable_toc = false
 
 [params.markmap]
-enable = true
+enable = false
 
 # hugo module configuration
 
