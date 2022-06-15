@@ -1,11 +1,8 @@
 ---
-layout: default
-author: irosyadi
-title:  Development
-date: 2020-06-01 20:09:34
-category: development
-tags: ["category", "development"]
-draft: false
+title: "Development"
+linkTitle: "Development"
+weight: 4
+description: 
 ---
 
 # Development

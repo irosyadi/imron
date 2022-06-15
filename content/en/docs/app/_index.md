@@ -1,11 +1,8 @@
 ---
-layout: default
-author: irosyadi
-title:  App
-date: 2020-06-01 20:09:34
-category: app
-tags: ["category, "app"]
-draft: false
+title: "App"
+linkTitle: "App"
+weight: 4
+description: 
 ---
 
 # App

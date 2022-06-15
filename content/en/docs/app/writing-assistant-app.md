@@ -163,3 +163,7 @@ Related links:
 
 ## Language Editing Service
 - [List in PNAS](https://www.pnas.org/page/authors/language-editing)
+
+## Research
+* [CoAuthor – Human-AI Collaborative Writing Dataset](https://coauthor.stanford.edu/)
+* [Browse CoAuthor – CoAuthor – Human-AI Collaborative Writing Dataset](https://coauthor.stanford.edu/browse/)

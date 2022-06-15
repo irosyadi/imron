@@ -1,11 +1,8 @@
 ---
-layout: default
-author: irosyadi
-title: Catatan
-date: 2020-06-01 20:09:34
-category: catatan
-tags: ["category, "catatan"]
-draft: false
+title: "Catatan"
+linkTitle: "Catatan"
+weight: 4
+description: 
 ---
 
 # Catatan

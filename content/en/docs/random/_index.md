@@ -1,11 +1,8 @@
 ---
-layout: default
-author: irosyadi
-title:  Random Notes
-date: 2020-06-01 20:09:34
-category: random
-tags: ["category", "random"]
-draft: false
+title: "Random Notes"
+linkTitle: "Random Notes"
+weight: 4
+description: 
 ---
 
 # Random Notes
