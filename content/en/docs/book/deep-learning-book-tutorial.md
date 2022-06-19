@@ -108,3 +108,9 @@ draft: false
 - [Arun's dilation demo](http://jsfiddle.net/yces4vn9/43/)
 - [Arun's explanation of LSTM Forward-Backward passes](http://arunmallya.github.io/writeups/nn/lstm/index.html#/)
 - [Mixture Density Network tensorflow](http://blog.otoro.net/2015/11/24/mixture-density-networks-with-tensorflow/)
+
+## Deep Learning
+- [DEEP LEARNING · Deep Learning](https://atcold.github.io/NYU-DLSP21/)
+
+## Machine Learning: Blog
+- [Rahmadya Trias Handayanto | "Just for a little kindness"](https://rahmadya.com/)
