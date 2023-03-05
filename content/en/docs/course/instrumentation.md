@@ -1,10 +1,8 @@
 ---
-layout: default
-author: irosyadi
-title:  Instrumentation
-date: 2020-09-14 11:35:20
-category: course
+aliases: [Instrumentation]
+title: Instrumentation
 tags: ["instrumentation"]
+date: 2020-09-14 11:35:20
 draft: false
 ---
 

@@ -1,10 +1,8 @@
 ---
-layout: default
-author: irosyadi
-title:  Octave Online Server
-date: 2020-11-14 08:30:33
-category: app
+aliases: [Octave Online Server]
+title: Octave Online Server
 tags: ["octave"]
+date: 2020-11-14 08:30:33
 draft: false
 ---
 

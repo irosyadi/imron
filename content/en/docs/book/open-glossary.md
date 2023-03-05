@@ -1,10 +1,8 @@
 ---
-layout: default
-author: irosyadi
-title:  Open Glossary
-date: 2020-11-28 03:42:30
-category: book
+aliases: [Open Glossary]
+title: Open Glossary
 tags: ["open", "glossary"]
+date: 2020-11-28 03:42:30
 draft: false
 ---
 
@@ -23,6 +21,7 @@ draft: false
 - [Government Glossary](https://ben.balter.com/government-glossary/), [Government Glossary Repo](https://github.com/benbalter/government-glossary)
 
 ## Tools
+
 - [Pyglossary](https://github.com/ilius/pyglossary) : convert between many glossary/dictionary format
 - [Glossword Repo](https://github.com/glosswordteam/Glossword), [Glossword](http://glossword.biz/) PHP CMS for Glossary App
 - [Magento Glossary App](https://github.com/magento/glossary) : License MIT

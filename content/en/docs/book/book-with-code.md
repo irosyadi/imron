@@ -1,10 +1,8 @@
 ---
-layout: default
-author: irosyadi
+aliases: [Book with Code]
 title: Book with Code
-date: 2020-08-10 19:36:12
-category: book
 tags: ["book", "code"]
+date: 2020-08-10 19:36:12
 draft: false
 ---
 

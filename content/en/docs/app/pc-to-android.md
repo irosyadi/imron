@@ -1,17 +1,16 @@
 ---
-layout: default
-author: irosyadi
-title:  PC to Android Connection
-date: 2022-07-01 12:50:53
-category: app
+aliases: [PC to Android Connection]
+title: PC to Android Connection
 tags: ["android"]
+date: 2022-07-01 12:50:53
 draft: false
 ---
 
 # PC to Android Connection
 
 ## PC - Android Connection
-- KDE Connect by KDE: 
+
+- KDE Connect by KDE:
     - Android to PC:
         - Send files
         - Send clipboard
@@ -26,7 +25,7 @@ draft: false
         - Media Player Control
         - Remote keypresses from keyboard (as wireless keyboard to Android)
         - Mouse receiver (as mouse for Android)
-        - Run (Windows) command 
+        - Run (Windows) command
         - Find device
         - Send files
     - Cons:
@@ -63,3 +62,8 @@ draft: false
         - Read photos
     - Cons:
         - limited features
+
+## Push Notification
+
+- [ntfy.sh | Send push notifications to your phone via PUT/POST](https://ntfy.sh/)
+- [Pushover: Simple Notifications for Android, iPhone, iPad, and Desktop](https://pushover.net/)

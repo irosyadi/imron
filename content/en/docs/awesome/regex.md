@@ -1,18 +1,18 @@
 ---
-layout: default
-author: irosyadi
-title:  Regex
-date: 2020-11-14 20:12:07
-category: awesome
+aliases: [Regex]
+title: Regex
 tags: ["regex"]
+date: 2020-11-14 20:12:07
 draft: false
 ---
 
 # Regex
 
 ## Regex Lesson
+
 - [Regexone](https://regexone.com/) : interactive regex lesson
-- [Regex 101](https://regex101.com/) : online interactive regex lesson
+- [Regex 101](https://regex101.com/) : online interactive regex checker
+- [Regexper](https://regexper.com/) : regex explanation
 - [Regex Info](https://www.regular-expressions.info/) : regex learning
 - [Rexegg](https://rexegg.com/) : regex learning
 - [Regexbuddy](https://www.regexbuddy.com/)
@@ -21,6 +21,7 @@ draft: false
 - [Rubular: a Ruby regular expression editor](https://rubular.com/)
 
 ## Regex Testing
+
 - [Debuggex](https://www.debuggex.com/)
 - [I hate Regex](https://ihateregex.io/)
 - [Regulex](https://jex.im/regulex/)
@@ -36,16 +37,20 @@ draft: false
 - [Txt2Re](https://www.txt2re.com/index_php3.html)
 
 ## Regex Generator
+
 - [Regex Inginf](https://regex.inginf.units.it/)
 - [GitHub - pemistahl/grex: A command-line tool and library for generating regular expressions from user-provided test cases](https://github.com/pemistahl/grex)
 
 ## Regex Learn List
+
 - [Awesome Regex](https://github.com/aloisdg/awesome-regex)
 
 ## Regex Games
+
 - [Regex Crossword](https://m.regexcrossword.com/)
 
 ## Regex Books and Tutorials
+
 - [Learn by Example](https://learnbyexample.github.io/books/)
 - [Refrf](https://refrf.shreyasminocha.me/), [GitHub](https://github.com/shreyasminocha/regex-for-regular-folk) License: CC-BY
 - [Regular Expression](https://www.princeton.edu/~mlovett/reference/Regular-Expressions.pdf)
@@ -56,5 +61,11 @@ draft: false
 - [Regex Syntax](https://www.greenend.org.uk/rjk/tech/regexp.html)
 
 ## Regex Alternative
+
 - [Nevod](https://nevod.io/#/playground)
     - [nezaboodka/nevod: Nevod is a language and technology for pattern-based text search.](https://github.com/nezaboodka/nevod)
+
+## Regex
+
+- [Regex Visualization](https://regex-vis.com/)
+- [RegexGo | AI-Powered Regex Generator | Create Custom Regex Patterns with Explanations](https://www.regexgo.com/)

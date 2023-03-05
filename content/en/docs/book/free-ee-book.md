@@ -1,10 +1,8 @@
 ---
-layout: default
-author: irosyadi
-title:  Free and Open Electrical Engineering Books
-date: 2020-07-26 19:46:47
-category: book
+aliases: [Free and Open Electrical Engineering Books]
+title: Free and Open Electrical Engineering Books
 tags: ["free", "open", "electrical engineering", "book"]
+date: 2020-07-26 19:46:47
 draft: false
 ---
 
@@ -16,6 +14,7 @@ draft: false
 - [Socratic Electronics](https://www.ibiblio.org/kuphaldt/socratic/index.html) License: CC-BY
 
 Lists:
+
 - [EE Open Books](https://opentextbc.ca/oerdiscipline/chapter/electrical-engineering/)
 - [Open UMN Edu](https://open.umn.edu/opentextbooks/subjects/electrical)
 - [Open Stax](https://cnx.org/browse)
